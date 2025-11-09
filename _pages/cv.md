@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Regenerative Biology, Medizinische Fakultät Carl Gustav Carus, Technische Universität Dresden
+* M.S. in Regenerative Biology and Medicine, Center for Molecular and Cell Bioengineering, Technische Universität Dresden
+* B.S. in Biology, Faculty of Science and Technology, Airlangga University
 
 Work experience
 ======
