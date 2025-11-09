@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profilephoto.png"
   name             : "Ridzky Yuda"
   pronouns         : # example: "she/her"  
   bio              : "Stem cell biologist studying hematopoietic stem cell inflammation and aging"
