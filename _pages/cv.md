@@ -26,12 +26,37 @@ Scientific Appointment
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Cellular and molecular biology
+  * Isolation and culture of alveolar macrophages (liquid and semisolid medium)
+  * Human and murine hematopoietic stem cell culture (liquid and semisolid medium)
+  * Lentiviral plasmid design and cloning, lentivirus production, titration, and transduction
+  * Molecular cloning by restriction enzyme and ligation method
+  * RNA Immunoprecipitation
+  * ATAC tagmentation
+  * Library preparation and quantification
+    
+* In vivo mouse work
+  * Wild-type and transgenic mouse colony management: breeding, genotyping, and cage management.
+  * FELASA B certification
+  * Bone marrow reconstitution experiment: lethal irradiation, transplantation, retroorbital bleeding, and bone marrow analysis
+  * Macrophage isolation from mouse organs: lung, liver, spleen, bone-marrow. 
+  * Stereotactic injection
+ 
+* Omics Data Analysis
+  * Transcriptomics: Bulk and single-cell RNA-seq
+  * EpigenomicsL: Bulk and single-cell ATAC-seq
+    
+* Programming skills
+  * Shell scripting in LINUX/UNIX environment
+  * R programming language
+  * GitHub repository and documentation. 
+    
+* Language skills (CEFFR level)
+  * English (C1)
+  * German (B1)
+  * Dutch (A1)
+  * Indonesian (native)
+*
 
 Publications
 ======
