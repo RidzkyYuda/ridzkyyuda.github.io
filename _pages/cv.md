@@ -11,26 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Regenerative Biology, Medizinische Fakultät Carl Gustav Carus, Technische Universität Dresden
-* M.S. in Regenerative Biology and Medicine, Center for Molecular and Cell Bioengineering, Technische Universität Dresden
-* B.S. in Biology, Faculty of Science and Technology, Airlangga University
+* Ph.D in Regenerative Biology, Medizinische Fakultät Carl Gustav Carus, Technische Universität Dresden, Germany
+* M.S. in Regenerative Biology and Medicine, Center for Molecular and Cellular Bioengineering (CMCB), Technische Universität Dresden, Germany
+* B.S. in Biology, Faculty of Science and Technology, Airlangga University, Indonesia
 
-Work experience
+Scientific Appointment
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Postdoctoral Fellow, Division of Hematology, Johns Hopkins University School of Medicine, USA (2023-present)
+* Wissenschaftlicher Mitarbeiter (Research Associate), Technische Universität Dresden, Germany (2018-2023)
+* Studentische Hilfskraft (Student technical assistant) at the Electron Microscopy Facility, CMCB, Technische Universität Dresden, Germany (2017-2018)
+* Summer School Student in Cancer Research, Deutsches Krebsforschungszentrum (German Cancer Research Center, DKFZ), Germany (2017)
+* Molecular Biology Lab Technician, Hospital for Infectious Diseases, Airlangga University, (2014-2016)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
