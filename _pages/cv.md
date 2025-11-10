@@ -30,17 +30,24 @@ Skills
   * Isolation and culture of alveolar macrophages (liquid and semisolid medium)
   * Human and murine hematopoietic stem cell culture (liquid and semisolid medium)
   * Lentiviral plasmid design and cloning, lentivirus production, titration, and transduction
+  * Nucleic acid extraction (DNA and RNA)
   * Molecular cloning by restriction enzyme and ligation method
   * RNA Immunoprecipitation
   * ATAC tagmentation
-  * Library preparation and quantification
+  * Library preparation and quantification for next generation sequencing (NGS)
     
+* Immunology and proteomics
+  * Multicolor flow-cytometry (> 16 colors) using conventional and spectral flow cytometer
+  * Enzyme-linked immunosorbent assay (ELISA)
+  * Immunofluorescence staining and imaging
+ 
 * In vivo mouse work
-  * Wild-type and transgenic mouse colony management: breeding, genotyping, and cage management.
   * FELASA B certification
+  * Wild-type and transgenic mouse colony management: breeding, genotyping, and cage management.
   * Bone marrow reconstitution experiment: lethal irradiation, transplantation, retroorbital bleeding, and bone marrow analysis
   * Macrophage isolation from mouse organs: lung, liver, spleen, bone-marrow. 
-  * Stereotactic injection
+  * Stereotactic injection of lentivirus into mouse brain.
+  * Mouse surgery. 
  
 * Omics Data Analysis
   * Transcriptomics: Bulk and single-cell RNA-seq
@@ -49,14 +56,18 @@ Skills
 * Programming skills
   * Shell scripting in LINUX/UNIX environment
   * R programming language
-  * GitHub repository and documentation. 
+  * FIJI/ImageJ macro
+  * GitHub repository and documentation.
     
 * Language skills (CEFFR level)
   * English (C1)
   * German (B1)
   * Dutch (A1)
   * Indonesian (native)
-*
+    
+* Leadership skills
+  * Strong interpersonal and leadership skills
+  * Proven track record in managing organization from student bodies to research project
 
 Publications
 ======
