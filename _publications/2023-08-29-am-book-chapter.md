@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 4"
+title: "Isolation, Ex Vivo Expansion, and Lentiviral Transduction of Alveolar Macrophages. In: Mass, E. (eds) Tissue-Resident Macrophages"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
+category: manuscripts
+permalink: /publication/2023-08-29-am-book-chapter
+excerpt: 'Isolation, culture, and genetic modification of macrophages.'
+date: 2023-08-29
 venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://link.springer.com/protocol/10.1007/978-1-0716-3437-0_16'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
