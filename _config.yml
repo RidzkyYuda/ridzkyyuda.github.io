@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Ridzky Yuda's Homepage"
+title                    : "Ridzky Yuda"
 title_separator          : "-"
 name                     : &name "Dr. rer. medic. Ridzky Yuda"
 description              : &description "Biosketch Profile"   # Update this with a general description of your site, this is the default if not overridden by a page
